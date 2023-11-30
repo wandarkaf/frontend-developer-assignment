@@ -44,3 +44,5 @@ I used a couple of libraries, [Tailwind](https://tailwindcss.com/) and [Lodash](
 
 That's all. Thanks for the opportunity, and I hope you like it. 
 
+![showcase](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3d4b2M1OWNna2g3ZTdqOGprMDBsZW14ZGIxeTVyaXgxcWo1bWduZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eUCbwgvbfxAhsLvmrs/giphy.gif)
+
