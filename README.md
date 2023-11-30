@@ -32,7 +32,7 @@ As a user, I can
 - Fork the repo to your own account, make it public and send us the repo url when you are completed. We will
   clone and run the site on our local.
 
-### Resolution Walkthrough
+## Resolution Walkthrough
 
 My thought process for the exercise resolution was to translate concepts between **React** and **Vue**; as I mentioned in a previous hiring meeting, *my background and expertise are focused on the Vue ecosystem*. So, although there are some similarities in both frameworks that I can work with, I did some translation into the React ecosystem on how to implement best practices, such as `computed` and `slots` and the use of `memos` and `children`. For more information, please check the [Vue docs](https://vuejs.org/guide/introduction.html) if you are curious.
 
