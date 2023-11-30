@@ -31,3 +31,16 @@ As a user, I can
 - We don't expect a full test coverage, but a couple of unit tests would be nice to have
 - Fork the repo to your own account, make it public and send us the repo url when you are completed. We will
   clone and run the site on our local.
+
+### Resolution Walkthrough
+
+My thought process for the exercise resolution was to translate concepts between **React** and **Vue**; as I mentioned in a previous hiring meeting, *my background and expertise are focused on the Vue ecosystem*. So, although there are some similarities in both frameworks that I can work with, I did some translation into the React ecosystem on how to implement best practices, such as `computed` and `slots` and the use of `memos` and `children`. For more information, please check the [Vue docs](https://vuejs.org/guide/introduction.html) if you are curious.
+
+Regarding the architecture, I decided to keep it minimal and straightforward. `AppList` probably needs more scrutiny, but I avoided component granularity at this phase. Of course, if the *exercise* grows, it has to be done.
+
+I added some test coverage, mainly on the `AppSearch` component. We could also extract some utilities in a utility folder. Still, I want to respect the time given for the exercise.
+
+I used a couple of libraries, [Tailwind](https://tailwindcss.com/) and [Lodash](https://lodash.com/), to ease the developer experience for the resolution. 
+
+That's all. Thanks for the opportunity, and I hope you like it. 
+
